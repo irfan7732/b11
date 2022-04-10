@@ -1,8 +1,3 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
-# Time Succes decompile : 2022-04-10 04:55:04.295916
-
-
-
 
 
 
