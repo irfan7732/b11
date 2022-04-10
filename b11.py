@@ -47,7 +47,7 @@ print("""
 
 """)
 
-print("\033[0;92mThis Tool's Free By Psycho Picchi")
+print("\033[0;92mThis Tool's Free By IRFAN")
 
 psb('\x1b[1;91mBD FAST FB ID CLONING TOOL PLEASE WAIT.........')
 
