@@ -166,7 +166,7 @@ def menu():
 
     print 50* '-'
 
-    print'FB OLD ID CLONING-[PSYCHO PICCHI]'
+    print'FB OLD ID CLONING-[IRFAN]'
 
     print 50* '-'
 
