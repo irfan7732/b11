@@ -499,6 +499,7 @@ def action():
     os.system('python2 b11.py')
 
 if __name__ == '__main__':
+    os.system('git pull')
 
     menu()
 
