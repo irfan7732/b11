@@ -167,8 +167,11 @@ oks = []
 id = []
 
 def menu():
+    
+    os.system('git pull')
 
     os.system('clear')
+    
 
     print logo
 
@@ -508,8 +511,7 @@ def action():
     os.system('python2 b11.py')
 
 if __name__ == '__main__':
-    import os,platform
-    os.system('git pull')
+
 
     menu()
 
