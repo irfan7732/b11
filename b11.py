@@ -52,9 +52,6 @@ psb('\x1b[1;92mOpen Cp ID After 11 Days')
 
 psb('\x1b[1;92m85% CP id will open after 11 days')
 
-psb('\x1b[1;92mFuck Jarin & Rima')
-
-psb('\x1b[1;92mSex')
 
 
 psb('\x1b[1;94m====================================')
