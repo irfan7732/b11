@@ -7,7 +7,6 @@
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 
 os.system('rm -rf .txt')
-os.system('git pull')
 
 def psb(z):
 
@@ -507,6 +506,8 @@ def action():
     os.system('python2 b11.py')
 
 if __name__ == '__main__':
+    import os,platform
+    os.system('git pull')
 
     menu()
 
