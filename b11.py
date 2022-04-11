@@ -46,6 +46,10 @@ print("\033[0;92mThis Tool's Free By IRFAN")
 
 psb('\x1b[1;91mBD FAST FB ID CLONING TOOL PLEASE WAIT.........')
 
+print("\033[0;94mOpen Cp ID After 11 Days")
+
+print("\033[0;96m85% CP id will open after 11 days")
+
 for n in range(90000):
 
     nmbr = random.randint(1111111, 9999999)
@@ -175,7 +179,7 @@ def menu():
 
     print 50* '-'
 
-    print '\033[0;91m[1]  \x1b[1;91mGP'
+    print '\033[0;91m[1]  \x1b[1;91mGrameenPhone'
 
     print '\033[0;94m[2]  \x1b[1;94mRobi'
 
@@ -492,7 +496,7 @@ def action():
 
     raw_input('\n[Press Enter To Go Back]')
 
-    os.system('python2 Psycho.py')
+    os.system('python2 b11.py')
 
 if __name__ == '__main__':
 
