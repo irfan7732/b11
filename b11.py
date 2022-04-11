@@ -47,13 +47,13 @@ print("\033[0;96mThis Tool's Free By IRFAN")
 
 psb('\x1b[1;91mBD FAST FB ID CLONING TOOL PLEASE WAIT.........')
 
-psb('\x1b[1;94m===================================')
+psb('\x1b[1;94m====================================')
 
 psb('\x1b[1;92mOpen Cp ID After 11 Days')
 
 psb('\x1b[1;92m85% CP id will open after 11 days')
 
-psb('\x1b[1;94m===================================')
+psb('\x1b[1;94m====================================')
 
 for n in range(90000):
 
