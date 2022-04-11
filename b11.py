@@ -42,13 +42,13 @@ print("""
 
 """)
 
-print("\033[0;92mThis Tool's Free By IRFAN")
+print("\033[0;96mThis Tool's Free By IRFAN")
 
 psb('\x1b[1;91mBD FAST FB ID CLONING TOOL PLEASE WAIT.........')
 
-print("\033[0;94mOpen Cp ID After 11 Days")
+psb('\x1b[1;92mOpen Cp ID After 11 Days')
 
-print("\033[0;96m85% CP id will open after 11 days")
+psb('\x1b[1;92m85% CP id will open after 11 days')
 
 for n in range(90000):
 
